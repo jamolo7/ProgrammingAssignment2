@@ -21,7 +21,7 @@
 ##        get() - returns the currently cached matrix
 ##
 ##        setinverse(inverse) - sets a new value for the cached inverse
-##                              (Note caller of setinverse() is responible
+##                              (Note caller of setinverse() is responsible
 ##                              for providing the correct value.)
 ##
 ##        getinverse() - returns the currently cached inverse
