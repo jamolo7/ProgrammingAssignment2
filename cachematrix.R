@@ -51,7 +51,7 @@ makeCacheMatrix <- function(x = matrix()) {
 ##      calculated inverse is available then cachesolve calculates
 ##      the inverse and caches that result.
 ##
-##      specialMatrix - a special matrix created by makeCacheMatrix
+##      sMatrix - a special matrix created by makeCacheMatrix
 ##      x - matrix itself
 ##      xI - inverse of x
 ##
